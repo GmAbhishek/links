@@ -31,6 +31,10 @@ Visit [gmabhishek.tech](https://gmabhishek.tech) to see the website in action.
     yarn
     ```
 
+## Contributing
+
+If you want to contribute to this project, please follow the [Contributing Guidelines](CONTRIBUTING.md).
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
