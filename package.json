@@ -2,7 +2,7 @@
   "name": "links",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/GmAbhishek/GmAbhishek.tech",
+  "homepage": "https://GmAbhishek.github.io/links/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^13.0.0",
@@ -19,7 +19,7 @@
     "web-vitals": "^2.1.0"
   },
   "scripts": {
-    "deploy": "yarn build && gh-pages -b main -d build",
+    "deploy": "yarn build && gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -42,5 +42,11 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@babel/plugin-syntax-flow": "^7.14.5",
+    "@babel/plugin-transform-react-jsx": "^7.14.9",
+    "@testing-library/dom": "^7.21.4",
+    "gh-pages": "^6.1.1"
   }
 }
