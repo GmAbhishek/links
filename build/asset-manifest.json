@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/links/static/css/main.83871588.css",
+    "main.js": "/links/static/js/main.55c81029.js",
+    "static/media/StaryNights.gif": "/links/static/media/StaryNights.96a3452bd7296c240089.gif",
+    "static/media/portfolio.png": "/links/static/media/portfolio.c5da271e261c2c7b2555.png",
+    "static/media/Avatar.jpg": "/links/static/media/Avatar.044b08e49d0e1fe4ea65.jpg",
+    "static/media/instagram.png": "/links/static/media/instagram.a0b6eb5ee109a787e2cc.png",
+    "static/media/ChakraPetch-BoldItalic.ttf": "/links/static/media/ChakraPetch-BoldItalic.928ac528b263e4fc23ae.ttf",
+    "static/media/mail.jpeg": "/links/static/media/mail.1dda75fd0832a012a384.jpeg",
+    "static/media/Resume.jpg": "/links/static/media/Resume.6a3a7823503d4d211c38.jpg",
+    "static/media/telegram.png": "/links/static/media/telegram.747f93fdc725b876d4b8.png",
+    "static/media/Spotify.png": "/links/static/media/Spotify.9163a8afff9b1d370f49.png",
+    "static/media/linkedin.jpg": "/links/static/media/linkedin.2c77993107c982a8b050.jpg",
+    "static/media/snapchat.png": "/links/static/media/snapchat.024a44bf6cd7661af55a.png",
+    "static/media/github.png": "/links/static/media/github.8962f6f4e4be384ec9a4.png",
+    "static/media/Discord.webp": "/links/static/media/Discord.77872dc4b770bd01b68e.webp",
+    "index.html": "/links/index.html",
+    "main.83871588.css.map": "/links/static/css/main.83871588.css.map",
+    "main.55c81029.js.map": "/links/static/js/main.55c81029.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83871588.css",
+    "static/js/main.55c81029.js"
+  ]
+}
