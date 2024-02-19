@@ -132,3 +132,4 @@ dist
 index.pack
 .pack
 *.pack
+.vercel
