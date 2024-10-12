@@ -87,7 +87,7 @@ const items: ItemType[] = [
     "title": "Resume",
     "subtitle": "@Gm_Abhishek | That's me 👨🏻‍🎓",
     "image": Resume,
-    "link": "https://www.gmabhishek.tech" //Telegram Pofile 
+    "link": "https://www.gmabhishek.me" //Telegram Pofile 
 }
 ]
 
